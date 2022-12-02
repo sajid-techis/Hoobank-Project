@@ -2,7 +2,7 @@
 A simple react and vite project
 Learn about React+Vite Tailwind through creation. 
 
-Visit [Live Demo]['https://hoobank-project-5dbyt9b4b-sajid-techis.vercel.app/']
+Visit [Live Demo]('https://hoobank-project-5dbyt9b4b-sajid-techis.vercel.app/')!
 
 Tech used
 React+Vite
